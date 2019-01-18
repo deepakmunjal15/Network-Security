@@ -1,0 +1,12 @@
+﻿A program to encrypt and decrypt strings of characters using the following ciphers:
+a) Caesar cipher
+b) Vigenere cipher
+c) Matrix transposition cipher
+The program contains functions/methods to encrypt a given plaintext string of characters and a key and generate the corresponding ciphertext. It also contains functions/methods to decrypt a ciphertext string of characters and generate the corresponding plaintext.
+
+
+
+
+A program that will take a message m (an integer) and key (e,n) – two integers, and generate the ciphertext c (another integer), using the RSA algorithm.
+
+

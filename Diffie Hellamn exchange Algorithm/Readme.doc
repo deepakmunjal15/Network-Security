@@ -1,0 +1,1 @@
+﻿Diffie Hellman exchange algorithm implementation that accepts the values of p and g, and randomly generates the secret numbers SA and SB, and derives the Diffie Hellman secret.
